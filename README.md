@@ -20,7 +20,7 @@ FizzBuzz問題 ([課題1のコード](https://github.com/ub351184/sample/blob/ma
  
 ## 課題2
 
-探索アルゴリズムの実装 ([課題1のコード](https://github.com/ub351184/sample/blob/main/Search.py))
+探索アルゴリズムの実装 ([課題2のコード](https://github.com/ub351184/sample/blob/main/Search.py))
 
 - 探索対象の配列から、探索する数値のindexを返却するメソッドを実装してください
 - 探索対象の配列は「1つ以上の要素を持つ、昇順にソートされた重複のない整数の配列」です
@@ -32,7 +32,7 @@ FizzBuzz問題 ([課題1のコード](https://github.com/ub351184/sample/blob/ma
  
 ## 課題3
  
-ソートアルゴリズムの実装 ([課題1のコード](https://github.com/ub351184/sample/blob/main/Sort.py))
+ソートアルゴリズムの実装 ([課題3のコード](https://github.com/ub351184/sample/blob/main/Sort.py))
 
 - 整数の配列を昇順にソートするアルゴリズムを実装してください
 - ソート対象の配列は「1つ以上の要素を持つ、ランダムに並べられた重複のない整数の配列」です
